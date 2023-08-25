@@ -1,2 +1,2 @@
 # inputs
-Inputs e seus tipos.
+Inputs e seus tipos em HTML.
